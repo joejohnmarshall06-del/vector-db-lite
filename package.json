@@ -1,0 +1,19 @@
+{
+  "name": "vector-db-lite",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Embeddable zero-dependency vector search engine with cosine similarity, metadata filters, and snapshot persistence.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
